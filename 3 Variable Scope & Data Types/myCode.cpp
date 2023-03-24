@@ -33,6 +33,13 @@ char i='A';
     // Spent half hour on 👆👆 writing this code for INDIA.... 🤦‍♂️
     // east code for the same 👇👇
 
-    cout<<"\n\n(Easy code) I am citizen of country - INDIA";
-    return 0;
+    cout<<"\n\n(Easy code) I am citizen of country - INDIA"<<endl;
+    
+
+// -------------- Cheated here 😁---------------------------
+// actual way to write INDIA 
+char ind[30]="INDIA";
+cout<<"\n"<<ind;
+return 0;
+// seeee this little dumb kunallll u progressed 😉
 }

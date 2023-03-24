@@ -15,7 +15,8 @@ int a=4 , b=5 ;
 cout<<endl<<endl;
 cout<<"Operators in C++ "<<endl;
 cout<<"\nFollowing Are the Operators in C++ "<<endl;
-
+cout<<"\n Value Of a = "<<a;
+cout<<"\n Value Of b = "<<b;
 // 1) Arithmetic Operators
 cout<<"\nThe Value of a+b = "<<a+b<<endl;
 cout<<"The Value of a-b = "<<a-b<<endl;
