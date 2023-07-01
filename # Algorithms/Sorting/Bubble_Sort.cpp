@@ -1,3 +1,5 @@
+// In this algorithm we will sort the array of 10 numbers in descending order. The algorithm is as follows:
+
 #include <iostream>
 using namespace std;
 int main()
@@ -13,7 +15,7 @@ int main()
 
     for (int i = 0; i < 10; i++)
     {
-        for (int c = 0; c < 10 - i - 1; c++)
+        for (int c = 0; c < 10 - i; c++)
         {
 
             if (array[c] > array[c + 1])
