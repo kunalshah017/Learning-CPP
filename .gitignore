@@ -35,6 +35,4 @@
 *.out
 *.app
 main.exe
-\# C++ Refrence/C++ Standard Library headers - cppreference.com_files/desktop.ini
-*.ini
 *.ini
