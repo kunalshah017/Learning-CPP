@@ -1,4 +1,4 @@
-// In this algorithm we will sort the array of 10 numbers in descending order. The algorithm is as follows:
+// In this algorithm we will sort the array of 10 numbers in ascending order. The algorithm is as follows:
 
 #include <iostream>
 using namespace std;
