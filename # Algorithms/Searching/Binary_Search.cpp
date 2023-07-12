@@ -28,11 +28,11 @@ int main()
 
         if (array[mid] > number)
         {
-            ub = mid;
+            ub = mid - 1;
         }
         else
         {
-            lb = mid;
+            lb = mid + 1;
         }
 
     } while (mid != number);
